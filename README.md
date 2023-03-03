@@ -2,7 +2,7 @@
 
 
 
-![Lingteng Qiu's github stats](https://github-readme-stats.vercel.app/api?username=lingtengqiu&show_icons=true&hide=prs&count_private=false&theme=default_repocard)
+![Lingteng Qiu's github stats](https://github-readme-stats.vercel.app/api?username=lingtengqiu&show_icons=true&hide=prs&count_private=false&theme=default_repocard&include_orgs=true)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingtengqiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
