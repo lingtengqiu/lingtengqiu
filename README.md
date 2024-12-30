@@ -1,10 +1,5 @@
 ### Hi, I'm Lingteng Qiu 👋
-
-
-
-![Lingteng Qiu's github stats](https://github-readme-stats.vercel.app/api?username=lingtengqiu&show_icons=true&hide=prs&count_private=false&theme=default_repocard&include_orgs=true)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingtengqiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+I graduated in October 2024 and joined Alibaba's Tongyi Lab. Prior to that, I had been a Ph.D. student at the School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen, under the supervision of Prof. Xiaoguang Han. Before my time at CUHK-Shenzhen, I earned my M.S. from the Department of Automation at Harbin Institute of Technology and my B.S. from Fuzhou University. I am fortunate to have worked closely with Prof. Guanying Chen at SYSU-Sz.
 
 ✧ Homepage: https://lingtengqiu.github.io/
 
